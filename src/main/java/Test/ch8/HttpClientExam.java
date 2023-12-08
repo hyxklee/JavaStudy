@@ -22,7 +22,7 @@ public class HttpClientExam {
         }
     }
     private void printMenu(String data) throws ParseException{
-        JSONParser
+        //JSONParser
     }
 }
 
